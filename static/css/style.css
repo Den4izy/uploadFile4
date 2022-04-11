@@ -1,0 +1,12 @@
+* {
+    color: red;
+}
+#image{
+    width: 500px;
+    height: 500px;
+    margin-bottom: 10px ;
+    background-image: url(../image/start.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 4px solid green;
+}
